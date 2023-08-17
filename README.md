@@ -2,7 +2,8 @@
   - Tenho 20 anos
   - Estou aperfeiçoando meus conhecimentos full-stack 
   - Atualmente trabalhando na Fundação CEFETMINAS
-  - Técnico em informática pelo CEFET-MG
+  - Técnico em informática pelo CEFET-MG  
+  - Engenharia de computação PUC-MG
 
 <div align="center">
   <a href="https://github.com/IgorMarcal" >
