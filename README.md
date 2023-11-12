@@ -1,7 +1,7 @@
 ## Me chamo Igor, tudo bem?😉
-  - Tenho 20 anos
-  - Estou aperfeiçoando meus conhecimentos full-stack 
-  - Atualmente trabalhando na Fundação CEFETMINAS
+  - Tenho 21 anos
+  - Desenvolvedor full-stack 
+  - Atualmente trabalhando na CREDFRANCO
   - Técnico em informática pelo CEFET-MG  
   - Engenharia de computação PUC-MG
 
