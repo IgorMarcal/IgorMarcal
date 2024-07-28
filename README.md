@@ -9,7 +9,7 @@
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IgorMarcal&show_icons=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMarcal&layout=compact&hide=HTML" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMarcal&layout=compact&hide=HTML,Blade" />
 
   
  <div style="display: inline_block" align:"center"><br>
