@@ -1,7 +1,7 @@
 ## Me chamo Igor, tudo bem?😉
   - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-  - 💼 Trabalhando como Desenvolvedor FullStack na Credfranco
-  - 🎓 Estudando Análise e desenvolvimento de Sistemas na PUC-MG.
+  - 💼 Desenvolvedor FullStack na Credfranco
+  - 🎓 Graduando em Engenharia de Software.
   - 🎓 Formado em informática pelo CEFET-MG .
   - 🌱 Sempre aprendendo algo novo.
 
